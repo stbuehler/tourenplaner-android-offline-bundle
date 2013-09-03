@@ -1,0 +1,15 @@
+[submodule "tourenplaner-android-offline"]
+	path = tourenplaner-android-offline
+	url = https://github.com/stbuehler/tourenplaner-android-offline.git
+[submodule "osmfind"]
+	path = osmfind
+	url = git://git.funroll-loops.de/osmfind.git
+[submodule "mapsforge"]
+	path = mapsforge
+	url = https://github.com/ToureNPlaner/mapsforge-fork.git
+[submodule "xz"]
+	path = xz
+	url = http://git.tukaani.org/xz.git
+[submodule "xz-jni"]
+	path = xz-jni
+	url = https://github.com/stbuehler/xz-jni.git
